@@ -1,0 +1,11 @@
+.cabecalho_menu-hamburguer {
+    largura : 24px ;
+    altura : 24px ;
+    cor de fundo : url ( Menu.svg );
+    exibição : bloco embutido ; /**/
+   
+    }
+    .cabecalho {
+    cor de fundo : var ( -cor-de-fundo );
+   
+    }
