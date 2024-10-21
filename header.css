@@ -17,8 +17,8 @@
     padding:  1em;
 }
 .lista-menu{
-    display: none;
-    position: absolute;
+    display: none; /*esconde o elemento*/
+    position: absolute; /*movimenta o elemento de acordo com o pai*/
     top: 100%;
 }
 
