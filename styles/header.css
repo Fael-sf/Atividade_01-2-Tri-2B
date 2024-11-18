@@ -2,7 +2,7 @@
     width: 24 px;
     height: 24 px;
     background-image:url (menu.svg);
-    background-repeat: no-repeat; /**/
+    background-repeat: no-repeat; 
     background-position: center;
     display: inline-block;
 }
